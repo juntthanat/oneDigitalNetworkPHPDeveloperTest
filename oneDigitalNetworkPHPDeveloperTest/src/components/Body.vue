@@ -4,12 +4,16 @@
 
 <template>
     <div>
-        <div>
+        <div id="navigate">
             <Navigation/>
         </div>
     </div>
 </template>
 
 <style>
-
+#navigate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 </style>
