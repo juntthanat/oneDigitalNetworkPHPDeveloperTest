@@ -51,6 +51,8 @@ function checkSelected(id) {
   align-items: center;
   justify-content: center;
   text-align: center;
+  font-size: 16px;
+  font-weight: 600;
 }
 .selected {
   background-color: #4285f4;
