@@ -4,12 +4,14 @@
 </script>
 
 <template>
-  <div>
+  <div id="main">
     <Header/>
     <Body/>
   </div>
 </template>
 
 <style scoped>
-
+#main{
+  height: 2132px;
+}
 </style>

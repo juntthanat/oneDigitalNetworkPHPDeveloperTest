@@ -23,10 +23,10 @@ const props = defineProps(["type", "logoSrc", "typeList", "cssClass"]);
 #titleContainer {
   display: flex;
   padding-left: 16px;
-  align-items: center;
+  align-items: center; 
   gap: 12px;
 }
-#image {
+#image{
   height: 24px;
   width: 24px;
 }
