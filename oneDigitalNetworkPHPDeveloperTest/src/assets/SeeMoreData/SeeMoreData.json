@@ -1,0 +1,62 @@
+{
+  "data": {
+    "sameCompany": {
+      "title": "ผลิตภัณฑ์อื่นๆ จาก Work Louder",
+      "data": [
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SameCompany/FigmaCreatorMicro.png",
+          "seeMoreTitle": "Figma Creator Micro",
+          "seeMoreDescription": "Mechanical Keyboard",
+          "seeMorePrice": "5,375 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SameCompany/knob1.png",
+          "seeMoreTitle": "knob1",
+          "seeMoreDescription": "Mechanical Keyboard",
+          "seeMorePrice": "14,999 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SameCompany/CreatorBoard.png",
+          "seeMoreTitle": "Creator Board",
+          "seeMoreDescription": "Mechanical Keyboard",
+          "seeMorePrice": "13,282 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SameCompany/CreatorBoardXL.png",
+          "seeMoreTitle": "Creator Board XL",
+          "seeMoreDescription": "Mechanical Keyboard",
+          "seeMorePrice": "18,900 บาท"
+        }
+      ]
+    },
+    "similarProduct": {
+      "title": "ผลิตภัณฑ์ที่น่าจะถูกใจคุณ",
+      "data": [
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SimilarProduct/RAZERProTypeUltra.png",
+          "seeMoreTitle": "RAZER Pro Type Ultra",
+          "seeMoreDescription": "Mechanical Keyboard",
+          "seeMorePrice": "5,599 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SimilarProduct/DiavaletPhantom2.png",
+          "seeMoreTitle": "Diavalet Phantom 2",
+          "seeMoreDescription": "Stereo Speaker",
+          "seeMorePrice": "50,642 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SimilarProduct/BoseQuietComfortUltra.png",
+          "seeMoreTitle": "Bose QuietComfort Ultra",
+          "seeMoreDescription": "Headphone",
+          "seeMorePrice": "15,900 บาท"
+        },
+        {
+          "imageDirectory": "src/assets/SeeMoreData/SimilarProduct/LewittPureTube.png",
+          "seeMoreTitle": "Lewitt Pure Tube",
+          "seeMoreDescription": "Studio Microphone",
+          "seeMorePrice": "43,999 บาท"
+        }
+      ]
+    }
+  }
+}

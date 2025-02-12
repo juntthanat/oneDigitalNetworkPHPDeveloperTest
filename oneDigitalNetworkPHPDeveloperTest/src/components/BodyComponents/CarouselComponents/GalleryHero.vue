@@ -63,8 +63,6 @@ function decrement() {
   width: 34px;
   border-radius: 100%;
 
-  /* box-shadow: 1px 2px 8px #b3b3b3; */
-
   box-shadow: 0px 3.48px 6.95px rgba(0, 0, 0, 0.1),
     0px 13.9px 27.81px rgba(0, 0, 0, 0.1),
     0px 20.86px 55.62px rgba(0, 0, 0, 0.1);
