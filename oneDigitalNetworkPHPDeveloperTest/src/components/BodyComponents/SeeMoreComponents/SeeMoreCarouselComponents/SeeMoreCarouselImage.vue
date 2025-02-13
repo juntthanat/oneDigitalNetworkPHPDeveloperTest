@@ -7,7 +7,6 @@ const asdf = computed(() => {
     "src" + props.data.imageDirectory.replaceAll("/..", "").replaceAll("..", "")
   );
 });
-console.log(props.data.imageDirectory);
 </script>
 
 <template>
