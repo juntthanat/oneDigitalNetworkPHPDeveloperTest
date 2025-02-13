@@ -44,7 +44,7 @@ console.log(props.data.imageDirectory);
 .seeMoreImage {
   height: 133px;
   width: 238px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .seeMoreDetailContainer {
   height: 150px;
@@ -58,8 +58,13 @@ console.log(props.data.imageDirectory);
   width: 238px;
 }
 .seeMoreTitle {
+  height: 30px;
+  width: 238px;
   font-size: 20px;
   font-weight: 700;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .seeMoreDescription {
   font-size: 14px;
